@@ -58,7 +58,7 @@
         <!-- The versions for BOMs, Dependencies and Plugins -->
         <version.server.bom>26.1.1.Final</version.server.bom>
         <version.shrinkwrap.resolvers>3.1.4</version.shrinkwrap.resolvers>
-        <version.org.wildfly.extras.batavia>1.0.12.Final</version.org.wildfly.extras.batavia>
+        <version.org.wildfly.extras.batavia>1.0.16.Final-SNAPSHOT</version.org.wildfly.extras.batavia>
         <version.org.wildfly.plugins.wildfly-jar-maven-plugin>10.0.0.Final</version.org.wildfly.plugins.wildfly-jar-maven-plugin>
         <version.org.wildfly.plugins.wildfly-maven-plugin>4.2.1.Final</version.org.wildfly.plugins.wildfly-maven-plugin>
         <version.org.wildfly.test>27.0.1.Final</version.org.wildfly.test>
